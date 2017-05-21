@@ -13,7 +13,7 @@ I know. Please,
 
 I wrote a man page for another thing, and it was the most difficult programming challenge of the whole project.
 
-... So I thought, "Hmm, try to make it easier to make manpages, realize it is an institution for a reason, and waste days when you have other things to do? Or I could add an incomprehensible, insane layer of insecurity and danger to my testing environment, for no reason, and laugh my ass of as tons of shit breaks for almost no perceptible reason..."
+... So I thought, "Hmm, try to make it easier to make manpages, realize it is an institution for a reason, and waste days when you have other things to do? Orrr...... add an incomprehensibly misguided, insane layer of insecurity and danger to my testing environment, for no reason, and laugh my ass of as tons of shit breaks for almost no perceptible reason..."
 
 ### What's wrong with you?
 
@@ -51,6 +51,6 @@ So I settled on High-C, because it's less like a tool, and more like some bullsh
 
 ### You're fuckin' nuts guy.
 
-Yeah well, I'm totally cool with it sounds like a personal problem. 
+Yeah well, I'm totally cool with it, sounds like a personal problem. 
 
-Seriously, don't use this. It's a joke, not a tool.
+*Seriously, don't use this. It's a joke, not a tool.*
