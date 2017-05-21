@@ -17,7 +17,7 @@ I know, I know... I'm super lazy. But hey, I got a lot on my plate. I'll add the
 
 ### Shiiiiit........ Okay fine whatever, but why would you call it High-C?
 
-Well, you're calling *C functions*, which are pretty low layers of abstraction, from *shell scripts*, which are a somewhat "higher" layer of abstraction.... That's bullshit.
+Well, you're calling *C functions*, which are pretty low layers of abstraction, from *shell scripts*, which are a somewhat "higher" layer of abstraction.... I'm.. Neh. That's not real. That's total bullshit. I'm sorry..
 
 I ran through a pretty hefty list of names:
 
