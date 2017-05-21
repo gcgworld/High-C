@@ -25,25 +25,25 @@ Well, you're calling *C functions*, which are pretty low layers of abstraction, 
 
 I ran through a pretty hefty list of names:
 
-C-Shell (Taken)
-She'll-Sell-C-Shells-by-the-C-Shore (Totally dumb)
-C-NoEvil
-C-Gulls
-C-Notes
-Emergen-C
-C-Change
-Stormy-C
-Dead-C-Scripts
-TheOldManAndThe-C
-Murder-C-Wrote
-He-Sed-C-Sed
-wyCiwyg
-Jui-C
+- C-Shell (Taken)
+- She'll-Sell-C-Shells-by-the-C-Shore (Totally dumb)
+- C-NoEvil
+- C-Gulls
+- C-Notes
+- Emergen-C
+- C-Change
+- Stormy-C
+- Dead-C-Scripts
+- TheOldManAndThe-C
+- Murder-C-Wrote
+- He-Sed-C-Sed
+- wyCiwyg
+- Jui-C
+
 and of course...
 
-"SAGGI TITTIES"
-
-**Such A GGood Idea Titties!**
+- "SAGGI TITTIES"
+- **Such A GGood Idea Titties!**
 
 ...
 
