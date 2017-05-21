@@ -3,7 +3,11 @@ A bash script that lets you pass arguments from the command line to a C function
 
 ### Oh my god! That's so dangerous!!
 
-I know. Please, *If you a scared motherfucker* ***Go to church*** *Go to church*
+I know. Please,
+
+*If you a scared motherfucker* ***Go to church*** *Go to church*
+
+*And **Seriously** Please, **DO NOT** Actually Use This.*
 
 ### Why would you do that?
 
@@ -37,9 +41,9 @@ wyCiwyg
 Jui-C
 and of course...
 
-"SAGI"
+"SAGGI TITTIES"
 
-**Such A Good Idea!**
+**Such A GGood Idea Titties!**
 
 ...
 
