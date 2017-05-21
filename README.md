@@ -13,7 +13,9 @@ I know. Please,
 
 I wrote a man page for another thing, and it was the most difficult programming challenge of the whole project.
 
-... So I thought, "Hmm, try to make it easier to make manpages, realize it is an institution for a reason, and waste days when you have other things to do? Orrr...... add an incomprehensibly misguided, insane layer of insecurity and danger to my testing environment, for no reason, and laugh my ass of as tons of shit breaks for almost no perceptible reason..."
+... So I thought, "Hmm, try to make it easier to make manpages, realize it is an institution for a reason, and waste days when you have other things to do? Orrr...... spend an hour or two, add an incomprehensibly misguided, insane layer of insecurity and danger to my testing environment, for no reason, and laugh my ass of as tons of shit breaks for almost no perceptible reason..."
+
+Seriously, that's not even a question.
 
 ### What's wrong with you?
 
