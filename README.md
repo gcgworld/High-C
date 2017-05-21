@@ -27,12 +27,12 @@ Well, you're calling *C functions*, which are pretty low layers of abstraction, 
 
 I ran through a pretty hefty list of names:
 
-- C-Shell (Taken)
+- C-Shell                             (Taken)
 - She'll-Sell-C-Shells-by-the-C-Shore (Totally dumb)
-- C-NoEvil
-- C-Gulls
-- C-Notes
-- Emergen-C
+- C-NoEvil                            (Not true in this case. I'm not a liar.)
+- C-Gulls                             (Why?)
+- C-Notes                             (Not gonna make any money of this..)
+- Emergen-C                           (Etcetera...)
 - C-Change
 - Stormy-C
 - Dead-C-Scripts
@@ -52,6 +52,6 @@ So I settled on High-C, because it's less like a tool, and more like some bullsh
 
 ### You're fuckin' nuts guy.
 
-Yeah well, I'm totally cool with it, sounds like a personal problem. 
+Yeah well, I'm totally cool with it, kind of sounds like a personal problem. 
 
 *Seriously, don't use this. It's a joke, not a tool.*
