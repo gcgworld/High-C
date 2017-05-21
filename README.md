@@ -42,8 +42,7 @@ I ran through a pretty hefty list of names:
 
 and of course...
 
-- "SAGGI TITTIES"
-- **Such A GGood Idea Titties!**
+- "SAGGI TITTIES" ( **Such A GGood Idea Titties!** )
 
 ...
 
