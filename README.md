@@ -1,5 +1,5 @@
 # High-C
-A bash script that lets you pass arguments from the command line to a C function parsed from a man page.
+A bash script that lets you pass arguments from the command line to a C function parsed from a man page. Compiles a program that just runs it. And runs it.
 
 ### Oh my god! That's so dangerous!!
 
